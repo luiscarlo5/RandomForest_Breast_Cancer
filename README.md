@@ -27,10 +27,10 @@ O dataset utilizado é fornecido pela biblioteca `sklearn.datasets`, contendo in
 - **Divisão de Dados:** os dados foram divididos em 70% para treino e 30% para teste.
 
 Sem tratamento de Outliers
-![bosplot1](bosplot1.png)
+![bosplot1](boxplot1.png)
 
 Com tratamento de Outliers
-![bosplot1](bosplot2.png)
+![bosplot1](boxplot2.png)
 
 ---
 
